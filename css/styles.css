@@ -1,0 +1,13 @@
+.flashy {
+    color: red;
+    font-style: italic;
+  }
+
+#best {
+    color: blue;
+    font-style: bold;
+}
+
+img{
+    height: 200px;
+}
